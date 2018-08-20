@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CrudMakananLanjutan</string>
+    <string name="fragment_login_password_hint">inputkan password</string>
+    <string name="fragment_login_passfiword_hintcon">inputkan password confirm</string>
+
+    <string name="loading">lagi loading</string>
+    <string name="title_activity_makanan">MakananActivity</string>
+    <string name="three">three</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="namaWarning">Nama tidak boleh kosong</string>
+    <string name="alamatWarning">Alamat tidak boleh kosong</string>
+    <string name="noHpWarning">no hp tidak boleh kosong</string>
+    <string name="usernameWarning">username tidak boleh kosong</string>
+    <string name="passwordWarning">password tidak boleh kosong</string>
+    <string name="strPasswordConfirmWarning">password minimal 6 karakter</string>
+</resources>
